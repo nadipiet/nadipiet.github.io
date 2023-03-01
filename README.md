@@ -1,6 +1,6 @@
 # This is a test of new repository for UCB of October
-# # This is the secondary heading
-# # # 
+## This is the secondary heading
+### 
 
 This is a paragraph
 
